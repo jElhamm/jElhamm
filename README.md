@@ -144,6 +144,6 @@
 | :---: | :---: |
 | ![Elham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jElhamm&&show_icons=true&theme=radical&line_height=27&v=5) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jElhamm&langs_count=10&theme=radical&layout=compact) |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jElhamm&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jElhamm&theme=radical)
 
 </div>
